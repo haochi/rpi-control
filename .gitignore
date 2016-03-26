@@ -1,0 +1,4 @@
+ssh_config
+raspberry-internal*
+config.json
+*.pyc

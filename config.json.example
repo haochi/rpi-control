@@ -1,0 +1,8 @@
+{
+    "hosts": ["example.com"],
+    "ssh_public_keys": ["~/.ssh/KEY.pub"],
+    "fstabs": [
+        "//192.168.0.1/STORAGE /mnt/BLAH cifs guest 0 0"
+    ]
+}
+
